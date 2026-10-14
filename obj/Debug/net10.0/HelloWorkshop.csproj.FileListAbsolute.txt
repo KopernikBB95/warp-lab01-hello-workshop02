@@ -12,3 +12,4 @@ C:\Studia\01 Semestry\Semestr 1\WARP\Projekty\warp-lab01-hello-workshop02\obj\De
 C:\Studia\01 Semestry\Semestr 1\WARP\Projekty\warp-lab01-hello-workshop02\obj\Debug\net10.0\HelloWorkshop.pdb
 C:\Studia\01 Semestry\Semestr 1\WARP\Projekty\warp-lab01-hello-workshop02\obj\Debug\net10.0\HelloWorkshop.genruntimeconfig.cache
 C:\Studia\01 Semestry\Semestr 1\WARP\Projekty\warp-lab01-hello-workshop02\obj\Debug\net10.0\ref\HelloWorkshop.dll
+C:\Studia\01 Semestry\Semestr 1\WARP\Projekty\warp-lab01-hello-workshop02\obj\Debug\net10.0\HelloWorkshop.sourcelink.json
