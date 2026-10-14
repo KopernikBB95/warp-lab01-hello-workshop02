@@ -3,7 +3,7 @@
 Aplikacja konsolowa .NET stworzenia podczas laboratorium.
 
 ## Uruchomienie!
-\`\`\`open: bash/powershell/terminal
+\`\`\`Open: bash/powershell/terminal
 type: "dotnet run"
 \`\`\`
 ## Kontakt
