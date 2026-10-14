@@ -7,4 +7,4 @@ Aplikacja konsolowa .NET stworzenia podczas laboratorium.
 dotnet run
 \`\`\`
 ## Kontakt
-Zespół: Warsztat Programisty
+Autor: Adrian Miernicki - Warsztat Programisty
