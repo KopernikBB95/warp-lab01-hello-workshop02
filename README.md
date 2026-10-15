@@ -1,6 +1,10 @@
 # HelloWorkshop
 
-Aplikacja konsolowa .NET stworzenia podczas laboratorium.
+Aplikacja konsolowa .NET stworzona podczas laboratorium.
+
+## Requirements
+
+.NET 10 SDK
 
 ## Uruchomienie!
 \`\`\`Open: bash/powershell/terminal
